@@ -101,7 +101,7 @@ The extension provides a **Trust Score** for any visited site by considering:
 
 ### 🔸 First View – Overview (Sections 1, 2 & 3)
 
-<img src="" width="400">  
+<img src="https://github.com/irrfanulhoque/ecommerce-extension/blob/main/Image/Passive%201st%20Scroll%20Panel.png" width="400">  
 
 ---
 
@@ -111,9 +111,21 @@ The extension provides a **Trust Score** for any visited site by considering:
 
 ---
 
+### 🔸 Most Selected Review
+<img src="https://github.com/irrfanulhoque/ecommerce-extension/blob/main/Image/Most%20Selected%20Review.png" width="400">  
+
+---
+
+
+### 🔸 Recent Feedbacks
+
+<img src="https://github.com/irrfanulhoque/ecommerce-extension/blob/main/Image/Recent%20Feedbacks.png" width="400">  
+
+---
+
 ### 🔸 Review Dropdown Menu (Section 4)
 
-<img src="" width="400">  
+<img src="https://github.com/irrfanulhoque/ecommerce-extension/blob/main/Image/Passive%202nd%20Scroll%20Panel.png" width="400">  
 
 ---
 
