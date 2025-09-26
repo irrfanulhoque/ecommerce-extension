@@ -107,7 +107,7 @@ The extension provides a **Trust Score** for any visited site by considering:
 
 ### 🔸 Registered Business Badge
 
-<img src="" width="400">  
+<img src="https://github.com/irrfanulhoque/ecommerce-extension/blob/main/Image/Registered.png" width="250">  
 
 ---
 
